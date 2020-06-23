@@ -62,7 +62,7 @@ public class DynamicArray<T> implements Iterable<T> {
     }
 
     public boolean contains(Object obj) {
-        // YOUR CODe HERE
+        // YOUR CODE HERE
         return false;
     }
 
