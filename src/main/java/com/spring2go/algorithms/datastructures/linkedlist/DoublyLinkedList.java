@@ -11,8 +11,8 @@ public class DoublyLinkedList<T> implements Iterable<T> {
 
     // 内部节点类
     private static class Node<T> {
-        private T data;
-        private Node<T> prev, next;
+        private T data; // 数据
+        private Node<T> prev, next; // 前向和后向指针
 
         public Node(T data, Node<T> prev, Node<T> next) {
             this.data = data;
@@ -53,7 +53,7 @@ public class DoublyLinkedList<T> implements Iterable<T> {
         // YOUR CODE HERE
     }
 
-    // 在链表的开始处添加一个元素，O(1)
+    // 在链表的头部添加一个元素，O(1)
     public void addFirst(T elem) {
         // YOUR CODE HERE
     }
@@ -87,7 +87,7 @@ public class DoublyLinkedList<T> implements Iterable<T> {
         return null;
     }
 
-    // 从链表中移除一个指定的节点，O(1)
+    // 移除链表中的一个指定的节点，O(1)
     private T remove(Node<T> node) {
         // YOUR CODE HERE
         return null;
