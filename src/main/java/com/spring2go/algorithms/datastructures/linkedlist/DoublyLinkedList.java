@@ -3,6 +3,10 @@ package com.spring2go.algorithms.datastructures.linkedlist;
 import java.util.Iterator;
 
 /**
+ * 双向链表实现.
+ *
+ * 用你的实现代码替换YOUR CODE HERE.
+ *
  * Created on Jun, 2020 by @author bobo
  */
 public class DoublyLinkedList<T> implements Iterable<T> {
@@ -88,6 +92,7 @@ public class DoublyLinkedList<T> implements Iterable<T> {
     }
 
     // 移除链表中的一个指定的节点，O(1)
+    // 内部使用
     private T remove(Node<T> node) {
         // YOUR CODE HERE
         return null;
