@@ -11,7 +11,7 @@ import java.util.Iterator;
  */
 public class ListStack<T> implements Iterable<T> {
 
-    private java.util.LinkedList<T> list = new java.util.LinkedList<>();
+    // INSTANCE VARIABLES HERE
 
     // 创建一个空栈
     public ListStack() {}

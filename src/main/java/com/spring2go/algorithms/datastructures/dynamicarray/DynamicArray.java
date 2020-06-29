@@ -11,6 +11,8 @@ import java.util.Iterator;
  */
 public class DynamicArray<T> implements Iterable<T> {
 
+    // INSTANCE VARIABLES HERE
+
     public DynamicArray() {
         // YOUR CODE HERE
     }
