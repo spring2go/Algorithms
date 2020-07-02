@@ -18,7 +18,7 @@ public class LinkedQueue<T> implements Iterable<T> {
 
     // 创建一个带有一个初始元素的队列
     public LinkedQueue(T firstElem) {
-        offer(firstElem);
+        // YOUR CODE HERE
     }
 
     // 返回队列的大小

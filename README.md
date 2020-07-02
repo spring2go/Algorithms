@@ -23,3 +23,6 @@
 | 07   | [栈 Stack](https://www.bilibili.com/video/BV1U5411W7x9?p=7)       |         介绍什么是栈，栈有哪些使用场景，演示栈的操作，分析栈操作的复杂度。演示如何通过栈来解决括号匹配问题。演示汉诺塔游戏。        |
 | 08   | [栈操作演示](https://www.bilibili.com/video/BV1U5411W7x9?p=8)       |         通过PPT演示如何基于单向链表来实现栈。        |
 | 09   | [实现栈(现场编程)](https://www.bilibili.com/video/BV1U5411W7x9?p=9)       |         通过代码演示如何基于双向链表来实现栈。        |
+| 10   | [队列Queue](https://www.bilibili.com/video/BV1U5411W7x9?p=10)       |         介绍什么是队列，队列的术语，队列有哪些使用场景，队列的操作演示，还有分析队列的操作复杂度。       |
+| 11   | [队列操作演示(基于单向链表)](https://www.bilibili.com/video/BV1U5411W7x9?p=11)       |         演示如何基于队列实现宽度优先搜索BFS算法，如何基于单向链表实现队列。       |
+| 12   | [实现队列(现场编程)](https://www.bilibili.com/video/BV1U5411W7x9?p=12)       |         现场编程演示如何基于双向链表来实现队列。       |
