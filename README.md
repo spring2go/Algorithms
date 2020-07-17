@@ -34,3 +34,6 @@
 | 18   | [实现二叉堆(现场编程)(下)](https://www.bilibili.com/video/BV1U5411W7x9?p=18)                |       现场编程演示如何基于 ArrayList 实现二叉堆，并且采用 HashMap 对移除 Removal 操作进行优化。这是下半部分。        |
 | 19   | [并查集(Union Find)](https://www.bilibili.com/video/BV1U5411W7x9?p=19)                      |                                     介绍什么是并差集，应用场景，还有操作复杂度。                                     |
 | 20   | [并查集应用~克努斯卡尔算法](https://www.bilibili.com/video/BV1U5411W7x9?p=20)               |                                     演示并查集的应用~克努斯卡尔最小生成树算法。                                      |
+| 21   | [查找和合并操作演示](https://www.bilibili.com/video/BV1U5411W7x9?p=21)                      |                                        演示并查集的查找和合并操作是如何工作的                                        |
+| 22   | [并查集路径压缩](https://www.bilibili.com/video/BV1U5411W7x9?p=22)                          |                                           演示并查集的路径压缩是如何工作的                                           |
+| 23   | [实现并查集(现场编程)](https://www.bilibili.com/video/BV1U5411W7x9?p=23)                    |                                        通过现场编程演示如何基于数据实现并查集                                        |
