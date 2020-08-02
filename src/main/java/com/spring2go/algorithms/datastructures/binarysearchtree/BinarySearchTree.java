@@ -20,31 +20,31 @@ public class BinarySearchTree<T extends Comparable<T>> {
         }
     }
 
-    // 检查二叉树是否为空
+    // 检查二叉搜索树是否为空
     public boolean isEmpty() {
         // TODO YOUR CODE HERE
         return false;
     }
 
-    // 获取二叉树中节点的数量
+    // 获取二叉搜索树中节点的数量
     public int size() {
         // TODO YOUR CODE HERE
         return 0;
     }
 
-    // 向二叉树中添加一个元素，如果成功执行添加就返回true
+    // 向二叉搜索树中添加一个元素，如果成功执行添加就返回true
     public boolean add(T elem) {
         // TODO YOUR CODE HERE
         return false;
     }
 
-    // 私有方法，在二叉树中递归添加一个值
+    // 私有方法，在二叉搜索树中递归添加一个元素
     private Node add(Node node, T elem) {
         // TODO YOUR CODE HERE
         return null;
     }
 
-    // 从二叉树中移除一个值，如果存在的话，复杂度：O(n)
+    // 从二叉搜索树中移除一个元素，如果存在的话，复杂度：O(n)
     public boolean remove(T elem) {
         // TODO YOUR CODE HERE
         return false;

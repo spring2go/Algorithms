@@ -37,3 +37,9 @@
 | 21   | [查找和合并操作演示](https://www.bilibili.com/video/BV1U5411W7x9?p=21)                      |                                        演示并查集的查找和合并操作是如何工作的                                        |
 | 22   | [并查集路径压缩](https://www.bilibili.com/video/BV1U5411W7x9?p=22)                          |                                           演示并查集的路径压缩是如何工作的                                           |
 | 23   | [实现并查集(现场编程)](https://www.bilibili.com/video/BV1U5411W7x9?p=23)                    |                                        通过现场编程演示如何基于数据实现并查集                                        |
+| 24   | [二叉搜索树(BST)](https://www.bilibili.com/video/BV1U5411W7x9?p=24)                         |                    介绍什么是树，二叉树，和二叉搜索树。包括树的使用场景，二叉搜索树的操作复杂度。                    |
+| 25   | [向二叉搜索树中添加元素](https://www.bilibili.com/video/BV1U5411W7x9?p=25)                  |                                演示如何向二叉搜索树中添加元素，评估添加操作的复杂度。                                |
+| 26   | [从二叉搜索树中移除元素](https://www.bilibili.com/video/BV1U5411W7x9?p=26)                  |                                     演示如何从二叉搜索树中移除元素，分四种情况。                                     |
+| 27   | [从二叉搜索树中移除元素](https://www.bilibili.com/video/BV1U5411W7x9?p=27)                  |                                   演示树的先序、中序、后序和按层次遍历的工作方式。                                   |
+| 28   | [实现二叉搜索树(现场编程)(上)](https://www.bilibili.com/video/BV1U5411W7x9?p=28)                          |                           通过现场编程演示如何实现二叉搜索树，上半部分实现add/remove等方法                           |
+| 29   | [实现二叉搜索树(现场编程)(下)](https://www.bilibili.com/video/BV1U5411W7x9?p=29)                          |          通过现场编程演示如何实现二叉搜索树，下半部分演示如何实现四种遍历算法(先序/中序/后序和按层次遍历)。          |
